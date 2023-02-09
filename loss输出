@@ -1,0 +1,32 @@
+Epoch: [0]  [   30/39429]
+eta: 4:44:11
+lr: 0.000100
+class_error: 86.36
+loss: 41.3448 (41.6893)
+
+loss_ce: 1.7430 (1.8867)  loss_bbox: 3.5715 (3.4332)  loss_giou: 1.6771 (1.6374)
+loss_ce_0: 1.7160 (1.8323)  loss_bbox_0: 3.6044 (3.4713)  loss_giou_0: 1.6784 (1.6373)
+loss_ce_1: 1.7556 (1.8943)  loss_bbox_1: 3.5819 (3.4490)  loss_giou_1: 1.6847 (1.6370)
+loss_ce_2: 1.7890 (1.8760)  loss_bbox_2: 3.5857 (3.4373)  loss_giou_2: 1.6806 (1.6363)
+loss_ce_3: 1.7141 (1.8606)  loss_bbox_3: 3.5728 (3.4300)  loss_giou_3: 1.6793 (1.6361)
+loss_ce_4: 1.7069 (1.8785)  loss_bbox_4: 3.5773 (3.4187)  loss_giou_4: 1.6734 (1.6373)
+
+loss_ce_unscaled: 0.8715 (0.9434)  class_error_unscaled: 77.4194 (81.4462)  loss_bbox_unscaled: 0.7143 (0.6866)
+loss_giou_unscaled: 0.8386 (0.8187)  cardinality_error_unscaled: 292.6667 (291.3333)
+
+loss_ce_0_unscaled: 0.8580 (0.9161)  loss_bbox_0_unscaled: 0.7209 (0.6943)
+loss_giou_0_unscaled: 0.8392 (0.8187)  cardinality_error_0_unscaled: 292.6667 (292.9032)
+
+loss_ce_1_unscaled: 0.8778 (0.9472)  loss_bbox_1_unscaled: 0.7164 (0.6898)
+loss_giou_1_unscaled: 0.8424 (0.8185)  cardinality_error_1_unscaled: 292.6667 (292.9032)
+
+loss_ce_2_unscaled: 0.8945 (0.9380)  loss_bbox_2_unscaled: 0.7171 (0.6875)
+loss_giou_2_unscaled: 0.8403 (0.8181)  cardinality_error_2_unscaled: 292.6667 (292.4516)
+
+loss_ce_3_unscaled: 0.8570 (0.9303)  loss_bbox_3_unscaled: 0.7146 (0.6860)
+loss_giou_3_unscaled: 0.8397 (0.8181)  cardinality_error_3_unscaled: 292.6667 (292.9032)
+
+loss_ce_4_unscaled: 0.8534 (0.9393)  loss_bbox_4_unscaled: 0.7155 (0.6837)
+loss_giou_4_unscaled: 0.8367 (0.8186)  cardinality_error_4_unscaled: 292.6667 (292.9032)
+
+time: 0.3600  data: 0.0078  max mem: 7011
